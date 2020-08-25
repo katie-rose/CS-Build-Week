@@ -26,6 +26,16 @@ h4 {
   margin-top: 0px;
 }
 
+button {
+  padding: 5px 15px;
+  opacity: 0.8;
+  font-family: 'Space Mono';
+  color: white;
+  background-color: black;
+  border: 1px solid darkmagenta;
+  margin: 0px 10px;
+}
+
 .box {
   display: inline-block;
   border: 1px solid darkmagenta;
